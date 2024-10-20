@@ -1,2 +1,2 @@
 # nosqlz
-A simple no sql database
+No sql is the extension of the sql.
